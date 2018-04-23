@@ -1,0 +1,36 @@
+Select Language
+Network Settings
+Server IP
+Port
+Start
+Check
+Exit
+ERROR
+CHECKED
+Error
+File containig selected language does not exist or is damaged
+Waiting For Server Response
+Connection with server could not be established
+Would you like to play offline
+File
+About
+New Game
+High Scores
+Exit
+Creators
+Rules
+Server sent incorrect data
+Server sent error message
+Server not available
+To see the rules go to:
+http://en.wikipedia.org/wiki/Tetris
+Score
+Preview
+Level
+Name
+Type your name
+Your score is
+Game Over
+Pause
+Stop
+Resume

@@ -1,0 +1,21 @@
+#ComboBox Dimension
+170 30
+WIDTH / HEIGHT
+#Label Size
+12 11
+Main Label / Top Label
+#Button Dimension
+85 25
+WIDTH / HEIGHT
+#Text Field Dimension
+12 25
+WIDTH / HEIGHT
+#Color
+0x6666BB 0x004400 0x002288 0x000000 0x004499 0x008000 0xFF0000 0x808000
+Border / Label 1 / Label 2 / Label 3 / ComboBox / CHECKED / ERROR / WAITING
+#Network
+localhost 1000
+IP / Port
+#Socket Timeout
+3000
+MILISECONDS

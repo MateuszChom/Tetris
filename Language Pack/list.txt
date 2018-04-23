@@ -1,0 +1,4 @@
+#Available Languages
+English (UK)
+English (United States)
+Polski

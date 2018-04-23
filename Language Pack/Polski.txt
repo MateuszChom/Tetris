@@ -1,0 +1,36 @@
+Wybierz Jêzyk
+Ustawienia Sieci
+IP Serwera
+Port
+Start
+SprawdŸ
+Wyjœcie
+B£¥D
+SPRAWDZONE
+B³¹d
+Plik zawieraj¹cy wybrany jêzyk nie istnieje lub jest uszkodzony
+Czekam Na OdpowiedŸ Serwera
+Po³¹czenie z serwerem nie mog³o zostaæ nawi¹zane
+Czy chcia³byæ zagraæ offline
+Plik
+O Grze
+Nowa Gra
+Najwyzsze Wyniki
+Wyjscie
+Twórcy
+Zasady Gry
+Serwer wys³a³ niepoprawne dane
+Serwer wys³a³ wiadomoœæ o b³êdzie
+Serwer niedostêpny
+Po zasady idz do:
+http://pl.wikipedia.org/wiki/Tetris
+Wynik
+Nastepny
+Poziom
+Imiê
+Wpisz swoje imiê
+Twoj wynik to
+Koniec Gry
+Pauza
+Stop
+Wznów
